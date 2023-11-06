@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **We care android app**
+- 🔭 I’m currently working on **Good Grade Student(LMS)**
 
-- 🌱 I’m currently learning **ReactJS, NodeJS**
+- 🌱 I’m currently learning **MEAN stack**
 
 - 👯 I’m looking to collaborate on **Any web based project**
 
