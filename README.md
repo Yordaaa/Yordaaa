@@ -10,11 +10,12 @@
 
 - 🔭 I’m currently working on **Broker Web app**
 
-- 🌱 I’m currently learning **MEAN stack**
+- 🌱 I’m currently learning **MERN stack**
 
 - 👯 I’m looking to collaborate on **Any web based project**
 
 - 📫 How to reach me **Yordanostibebu5@gmail.com**
+  
 - 🔗 **Yorda.netlify.app**
 
 <h3 align="left">Connect with me:</h3>
