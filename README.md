@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **Yordanostibebu5@gmail.com**
   
-- 🔗 **Yorda.netlify.app**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
